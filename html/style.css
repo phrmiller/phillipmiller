@@ -1,0 +1,38 @@
+body {
+    background: #EEE;
+    color: #333;
+    margin-top: 100px;
+    font-family: serif;
+}
+  
+main {
+    max-width: 450px;
+    margin: 0 auto;
+}
+  
+h1 {
+    font-size: 48px;
+    font-weight: normal;
+    margin: 18px auto;
+}
+
+.list {
+    margin-top: 40px;
+}
+
+p {
+    margin-top: 18px;
+    }
+
+strong {
+    font-size: 18px;
+}
+
+a {
+    color: hsl(220, 70%, 40%);
+    text-decoration: none;
+    }
+  
+a:hover {
+    text-decoration: underline;
+    }
